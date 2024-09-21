@@ -1,0 +1,12 @@
+[
+  {
+    "name": "john",
+    "email": "johndoe@example.com",
+    "password": "johnpass",
+    "age": 35,
+    "color": "#ff7400",
+    "gender": "male",
+    "terms": true,
+    "file": {}
+  }
+]
